@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/valgrind-checker.iml
+.idea/vcs.xml
+cmake-build-debug/
